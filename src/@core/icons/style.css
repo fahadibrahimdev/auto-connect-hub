@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?za6gvz');
+  src:  url('fonts/icomoon.eot?za6gvz#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?za6gvz') format('truetype'),
+    url('fonts/icomoon.woff?za6gvz') format('woff'),
+    url('fonts/icomoon.svg?za6gvz#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-down:before {
+  content: "\e910";
+}
+.icon-chevron-up:before {
+  content: "\e911";
+}
+.icon-facebook:before {
+  content: "\e90e";
+}
+.icon-instagram:before {
+  content: "\e908";
+}
+.icon-twitter:before {
+  content: "\e90f";
+}
+.icon-x:before {
+  content: "\e90b";
+}
+.icon-hamburger:before {
+  content: "\e90a";
+}
+.icon-online-pay:before {
+  content: "\e901";
+}
+.icon-repair-shop:before {
+  content: "\e906";
+}
+.icon-find-customers:before {
+  content: "\e907";
+}
+.icon-competitive-prices:before {
+  content: "\e904";
+}
+.icon-approved-list:before {
+  content: "\e902";
+}
+.icon-bulb-alert:before {
+  content: "\e900";
+}
+.icon-chats:before {
+  content: "\e905";
+}
+.icon-budget-file:before {
+  content: "\e903";
+}
